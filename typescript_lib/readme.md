@@ -1,0 +1,2 @@
+# This is the typescript version of the algorithms.
+The package can be imported directly as a default import from the directory "typescript_lib" index.ts file. It is exported as an object and each algorithm have it's name as the key.
